@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Acervos
+tagline:          'Cloud Infrastructure Made Simple'
+description:      'Cloud infrastructure and code for spinning up services easily. Made by <a href="https://twitter.com/dblooman" target="_blank">@dblooman</a> and <a href="https://twitter.com/stevenjack85" target="_blank">@stevenjack85</a>.'
+url:              https://github.com/acervos
+baseurl:          /
+
+author:
+  name:           'David Blooman and Steven Jack'
+  url:            https://github.com/acervos
+
+paginate:         5
+
+github:
+  repo:           https://github.com/acervos
